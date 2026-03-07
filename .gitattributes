@@ -2,6 +2,8 @@
 * text=auto
 *.shaderlab linguist-vendored
 *.shader linguist-vendored
+*.cginc linguist-vendored
+*.compute linguist-vendored
 *.hlsl linguist-vendored
 *.html linguist-vendored
 *.htm linguist-vendored
